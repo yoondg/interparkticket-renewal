@@ -35,6 +35,8 @@
 
 ### 메인 페이지 
 section 1 메인 비주얼
+| ![MainVisual](https://github.com/yoondg/renewal2/blob/main/main.png) 
+
 
 
 ### 서브 페이지 기능
