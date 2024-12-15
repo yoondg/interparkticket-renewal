@@ -34,8 +34,35 @@
 
 
 ### 메인 페이지 
+
 section 1 메인 비주얼
-| ![MainVisual](https://github.com/yoondg/renewal2/blob/main/main.png) 
+| ![MainVisual](https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF.png)
+
+
+인터파크 티켓의 주요 공연과 배너로 구성된 핵심 시각적 요소입니다.
+
+자동 슬라이드 형태로 주요 공연 정보를 한눈에 확인할 수 있도록 구성하였습니다.
+
+슬라이드 형태로 3개씩 배치하여 효율적인 정보 전달과 정돈된 레이아웃을 제공합니다.
+
+
+section2  티켓 오픈
+| ![MainVisual]([https://github.com/yoondg/interparkticket-renewal/blob/main/image.png](https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A6%E1%86%BA%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%86%AB.png)) 
+
+인터파크 티켓에서 오픈 예정 또는 현재 오픈 중인 공연들을 소개하는 영역입니다.
+
+사용자는 이 섹션을 통해 현재 예매 가능한 공연 정보를 직관적으로 확인할 수 있습니다.
+
+좌우 버튼을 이용해 슬라이드를 넘길 수 있으며, 각 공연을 클릭하면 [서브페이지2(예매하기)]로 이동됩니다.
+
+
+section3  중간 광고
+| ![MainVisual]([https://github.com/yoondg/interparkticket-renewal/blob/main/image.png]()) 
+인터파크 티켓의 메인 광고를 와이드 형태로 구성하여 시각적 임팩트를 제공합니다.
+
+
+
+
 
 
 
