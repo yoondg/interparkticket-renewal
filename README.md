@@ -295,11 +295,16 @@
 - **잘못된 값을 입력한 경우** : 해당 입력값이 올바르지 않음을 알려주는 메시지가 출력됩니다.<br>
 - **입력 필드에 공백이 있는 경우** : “빈 칸이 있습니다.” 라는 알림을 표시합니다.<br>
 <br><br><br>
-**로그인 - 간편로그인**
+
+**로그인 - 인터파크티켓 앱**
 <div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/loginbefore.gif" width="300"/>
-<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/loginafter.png" width="300"/>
+  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/qrlogin.png" width="300"/>
+<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/qrlogin2.png" width="300"/>
 </div><br>
+
+- **인터파크 앱 설치 안내** : 인터파크 앱 탭을 클릭하면 인터파크 티켓 앱 설치를 위한 QR코드가 표시됩니다.
+- **QR코드 유효 기간** : QR코드가 표시된 지 5분이 지나면 “로그인 인증시간이 만료되었습니다. 새로고침 후 다시 시도하세요”라는 안내 문구가 표시됩니다.
+<br><br><br>
 <div display="flex" align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/loginbefore.gif" width="300"/>
 <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/loginafter.png" width="300"/>
