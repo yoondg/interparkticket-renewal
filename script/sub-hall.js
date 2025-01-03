@@ -252,7 +252,7 @@ fetch('header.html')
           .forEach((a) => {
             a.addEventListener('click', function () {
               localStorage.setItem('detailId', JSON.stringify(this.dataset.id));
-              location.href = 'sub-reservation/sub-reservation.html';
+              location.href = 'sub-reservation.html';
             });
           });
       }
